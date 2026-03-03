@@ -1,9 +1,0 @@
-name: tiktok_lamp_app
-environment:
-  sdk: '>=3.0.0 <4.0.0'
-dependencies:
-  flutter:
-    sdk: flutter
-  video_player: ^2.8.1
-flutter:
-  uses-material-design: true
